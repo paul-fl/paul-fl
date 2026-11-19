@@ -9,6 +9,7 @@ Physicist working on radiation detectors, simulation and machine learning for ph
 
 ## Selected projects
 - [space-radiation-cherenkov](https://github.com/paul-fl/space-radiation-cherenkov): current PhD work on compact Cherenkov detectors for space radiation.
+- [raptor-training](https://github.com/paul-fl/raptor-training): RAPTOR radiation protection coursework (gamma and alpha spectroscopy, plutonium stockpile economics).
 - [MicroBooNE_DarkTrident_CNN](https://github.com/paul-fl/MicroBooNE_DarkTrident_CNN): CNN training and inference for dark trident vs background in LArTPC images.
 - [MicroBooNE-Analysis](https://github.com/paul-fl/MicroBooNE-Analysis): event selection, systematics and pyhf sensitivity for the dark trident search.
 - [HENON-Sensor-Analysis](https://github.com/paul-fl/HENON-Sensor-Analysis): calibration of MAGIC CubeSat magnetometer data (UROP).
