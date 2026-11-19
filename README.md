@@ -9,6 +9,8 @@ Physicist working on radiation detectors, simulation and machine learning for ph
 
 ## Selected projects
 - [MicroBooNE_DarkTrident_CNN](https://github.com/paul-fl/MicroBooNE_DarkTrident_CNN): CNN training and inference for dark trident vs background in LArTPC images.
+- [MicroBooNE-Analysis](https://github.com/paul-fl/MicroBooNE-Analysis): event selection, systematics and pyhf sensitivity for the dark trident search.
+- [HENON-Sensor-Analysis](https://github.com/paul-fl/HENON-Sensor-Analysis): calibration of MAGIC CubeSat magnetometer data (UROP).
 - [LYSOSimulation](https://github.com/paul-fl/LYSOSimulation): Geant4 simulation of a LYSO scintillator crystal with optical physics.
 - [Y3ComputationalProject](https://github.com/paul-fl/Y3ComputationalProject): numerical methods for a Higgs discovery significance analysis.
 - [MicroprocessorsProject](https://github.com/paul-fl/MicroprocessorsProject): PIC assembly firmware (ADC, keypad, LCD, UART, timer) for a frequency spectrum project.
