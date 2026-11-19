@@ -1,6 +1,6 @@
 # Paul Florescu
 
-Physicist working on radiation detectors, simulation and machine learning for physics data.
+Physicist working on radiation detectors, simulation and machine learning for physics data. Website: [paul-fl.github.io](https://paul-fl.github.io)
 
 - **Now:** PhD researcher at the Surrey Space Centre (from Oct 2026): compact Cherenkov detectors for space radiation (SiPMs, Geant4/GRAS simulation, a balloon-flight prototype).
 - **Before:** MSci Physics, Imperial College London (2026). Master's project: CNN classifier for a dark-sector search in MicroBooNE LArTPC data. Detector work on COMET at KEK (scintillators, DAQ, Geant4). UROP on the MAGIC CubeSat magnetometer.
